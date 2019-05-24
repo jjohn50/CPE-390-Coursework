@@ -1,2 +1,2 @@
 # CPE-390-Coursework
-Notes and Code made in and out of class
+The purpose of CPE-390 is to learn how computers work. Part of that is writing assembler code and directly controlling a computer, and debugging it. Part is interfacing to hardware. Unix, like any other operating system prevents you from directly accessing hardware. So for interfacing we will be using Arduinos. You will be allowed to use C++ on the Arduino while you do direct interfacing to hardware, and on the Raspberry Pi you will learn assembler. In order to have no problems with voltage levels, we need an Arduino with 3.3V that matches the voltage of the Raspberry Pi. 
