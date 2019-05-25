@@ -1,0 +1,3 @@
+Middle A = 440 Hz 
+Middle C = 261.63 Hz
+E = 659.25 
