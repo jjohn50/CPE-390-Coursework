@@ -1,0 +1,647 @@
+Skip To Content <#content>
+Dashboard <https://sit.instructure.com/>
+
+  *
+    Justin John
+    Account
+    <https://sit.instructure.com/profile>
+  *
+    Dashboard
+    <https://sit.instructure.com/>
+  *
+    Courses
+    <https://sit.instructure.com/courses>
+  *
+    Groups
+    <https://sit.instructure.com/groups>
+  *
+    Calendar
+    <https://sit.instructure.com/calendar>
+  *
+    0
+    Inbox
+    <https://sit.instructure.com/conversations>
+  *
+    Help
+    <http://help.instructure.com/>
+
+  *
+
+      
+
+Close <#>
+//
+
+  * /My Dashboard / <https://sit.instructure.com/>
+  * Microprocessor Systems <https://sit.instructure.com/courses/29528>
+  * Quizzes <https://sit.instructure.com/courses/29528/quizzes>
+  * ARM assembler instructions
+    <https://sit.instructure.com/courses/29528/quizzes/29931>
+
+2019 Spring
+
+  * Home <https://sit.instructure.com/courses/29528>
+  * Announcements <https://sit.instructure.com/courses/29528/announcements>
+  * Assignments <https://sit.instructure.com/courses/29528/assignments>
+  * Blackboard Collaborate
+    <https://sit.instructure.com/courses/29528/external_tools/10>
+  * Chat <https://sit.instructure.com/courses/29528/external_tools/85>
+  * Collaborations
+    <https://sit.instructure.com/courses/29528/collaborations>
+  * Course Survey
+    <https://sit.instructure.com/courses/29528/external_tools/83739>
+  * Discussions
+    <https://sit.instructure.com/courses/29528/discussion_topics>
+  * Grades <https://sit.instructure.com/courses/29528/grades>
+  * Library Resources
+    <https://sit.instructure.com/courses/29528/external_tools/83740>
+  * Modules <https://sit.instructure.com/courses/29528/modules>
+  * Pages <https://sit.instructure.com/courses/29528/wiki>
+  * People <https://sit.instructure.com/courses/29528/users>
+  * Quizzes <https://sit.instructure.com/courses/29528/quizzes>
+  * Media Gallery
+    <https://sit.instructure.com/courses/29528/external_tools/59037>
+  * My Media
+    <https://sit.instructure.com/courses/29528/external_tools/59038>
+  * Digital Materials
+    <https://sit.instructure.com/courses/29528/external_tools/63626>
+  * Bookstore
+    <https://sit.instructure.com/courses/29528/external_tools/63627>
+  * Course Survey
+    <https://sit.instructure.com/courses/29528/external_tools/81050>
+  * Library Resources
+    <https://sit.instructure.com/courses/29528/external_tools/81051>
+
+
+  ARM assembler instructions
+
+  * Due Feb 25 at 11:59pm
+  * Points 5
+  * Questions 5
+  * Available Feb 24 at 12am - Feb 26 at 11:59pm 3 days
+  * Time Limit None
+  * Allowed Attempts 4
+
+This quiz was locked Feb 26 at 11:59pm.
+
+
+      Attempt History
+
+	Attempt 	Time 	Score
+KEPT 	Attempt 2
+<https://sit.instructure.com/courses/29528/quizzes/29931/history?version=2>
+	2 minutes 	5 out of 5
+LATEST 	Attempt 2
+<https://sit.instructure.com/courses/29528/quizzes/29931/history?version=2>
+	2 minutes 	5 out of 5
+	Attempt 1
+<https://sit.instructure.com/courses/29528/quizzes/29931/history?version=1>
+	16 minutes 	4.8 out of 5
+
+Score for this attempt: 5 out of 5
+Submitted Feb 25 at 10:30pm
+This attempt took 2 minutes.
+ 
+/Move To... This element is a more accessible alternative to drag & drop
+reordering. Press Enter or Space to move this question. /
+Question 1
+1 / 1 pts
+/Edit this Question/ <#> /Delete this Question/ <#>
+0 fill_in_multiple_blanks_question  
+<https://sit.instructure.com/courses/29528/quizzes/29931/questions/366200>
+635009
+<pre><br><br> LDR R0, =#1<br>        ADD   R1, R0, #5<br>        SUB  
+R2, R1, #6<br>       BNE  .L1<br>       MOV   R2, #11<br>.L1:<br> ADD
+R0, R2<br><br>R0 = <input class='question_input' type='text'
+autocomplete='off' style='width: 120px;'
+name='question_366200_d5157c76409909bc0db8eea11b8b37d8'
+value='{{question_366200_d5157c76409909bc0db8eea11b8b37d8}}' /> R1=
+<input class='question_input' type='text' autocomplete='off'
+style='width: 120px;'
+name='question_366200_4ad530e71755dec08020cf692424dbb7'
+value='{{question_366200_4ad530e71755dec08020cf692424dbb7}}' /> R2=
+<input class='question_input' type='text' autocomplete='off'
+style='width: 120px;'
+name='question_366200_dd4d16bf403f85f485c1adc90459a86a'
+value='{{question_366200_dd4d16bf403f85f485c1adc90459a86a}}' /> </pre>
+
+
+
+        LDR  R0, =#1
+        ADD   R1, R0, #5
+        SUB   R2, R1, #6
+        BNE  .L1
+        MOV   R2, #11
+.L1:
+        ADD   R0, R2
+
+R0 =           
+     R1=          
+      R2=          
+
+*Answer 1:
+
+*
+Correct! 12
+Correct! 4835
+12
+12
+ 
+exact_answer a1 4835
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+*Answer 2:
+
+*
+Correct! 6
+Correct! 4144
+6
+6
+ 
+exact_answer a2 4144
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+*Answer 3:
+
+*
+Correct! 11
+Correct! 4344
+11
+11
+ 
+exact_answer a3 4344
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+ 
+/Move To... This element is a more accessible alternative to drag & drop
+reordering. Press Enter or Space to move this question. /
+Question 2
+1 / 1 pts
+/Edit this Question/ <#> /Delete this Question/ <#>
+0 fill_in_multiple_blanks_question  
+<https://sit.instructure.com/courses/29528/quizzes/29931/questions/366201>
+635021
+<pre>        LDR    R0, #5<br>        LDR    R1, #0<br>.L1:<br>       
+ADD    R1, R0, R1<br>        SUB    R0, #1<br>        BGT    .L1</pre>
+<p>R0 = <input class='question_input' type='text' autocomplete='off'
+style='width: 120px;'
+name='question_366201_36ff98552399d82bf598fd20ca62a638'
+value='{{question_366201_36ff98552399d82bf598fd20ca62a638}}' />      R1=
+<input class='question_input' type='text' autocomplete='off'
+style='width: 120px;'
+name='question_366201_47b0a81f17f3d5c6b8ce507d9dea70af'
+value='{{question_366201_47b0a81f17f3d5c6b8ce507d9dea70af}}' /> </p>
+
+        LDR    R0, #5
+        LDR    R1, #0
+.L1:
+        ADD    R1, R0, R1
+        SUB    R0, #1
+        BGT    .L1
+
+R0 =      R1=
+
+*Answer 1:
+
+*
+Correct! 0
+Correct! 1661
+0
+0
+ 
+exact_answer R0 1661
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100
+*Answer 2:
+
+*
+Correct! 15
+Correct! 7681
+15
+15
+ 
+exact_answer R1 7681
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100
+ 
+/Move To... This element is a more accessible alternative to drag & drop
+reordering. Press Enter or Space to move this question. /
+Question 3
+1 / 1 pts
+/Edit this Question/ <#> /Delete this Question/ <#>
+0 fill_in_multiple_blanks_question  
+<https://sit.instructure.com/courses/29528/quizzes/29931/questions/366202>
+635013
+<p>What opcode (in caps please) ...<br>is used to load a value into a
+register? <input class='question_input' type='text' autocomplete='off'
+style='width: 120px;'
+name='question_366202_6de089d44c8854a22d4e62fda2859323'
+value='{{question_366202_6de089d44c8854a22d4e62fda2859323}}' />
+<br>stores the value of a register so it can be modified and still
+retrieved after this part of the code is done? <input
+class='question_input' type='text' autocomplete='off' style='width:
+120px;' name='question_366202_47e20341aadf981c8725f5ee94c0d761'
+value='{{question_366202_47e20341aadf981c8725f5ee94c0d761}}' /> </p>
+<p>restores the value of a register after this section of the code is
+done? <input class='question_input' type='text' autocomplete='off'
+style='width: 120px;'
+name='question_366202_4ffd5cc2fb11693fffb5c7bd8719ca5d'
+value='{{question_366202_4ffd5cc2fb11693fffb5c7bd8719ca5d}}' /> </p>
+<p>calls a function? <input class='question_input' type='text'
+autocomplete='off' style='width: 120px;'
+name='question_366202_68a74981e7b7a4a3f08ef67fec180c47'
+value='{{question_366202_68a74981e7b7a4a3f08ef67fec180c47}}' /> </p>
+<p>returns from a function? <input class='question_input' type='text'
+autocomplete='off' style='width: 120px;'
+name='question_366202_d4038199f9f06f8b6c401a9496e4d331'
+value='{{question_366202_d4038199f9f06f8b6c401a9496e4d331}}' /> ]</p>
+<p> </p>
+
+What opcode (in caps please) ...
+is used to load a value into a register?
+stores the value of a register so it can be modified and still retrieved
+after this part of the code is done?
+
+restores the value of a register after this section of the code is done?
+
+calls a function?
+
+returns from a function? ]
+
+ 
+
+*Answer 1:
+
+*
+Correct! LDR
+Correct! 339
+LDR
+LDR
+ 
+exact_answer op1 339
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 9383
+ldr
+ldr
+ 
+exact_answer op1 9383
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 3643
+Ldr
+Ldr
+ 
+exact_answer op1 3643
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+*Answer 2:
+
+*
+Correct! PUSH
+Correct! 386
+PUSH
+PUSH
+ 
+exact_answer op2 386
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 8453
+push
+push
+ 
+exact_answer op2 8453
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 1992
+Push
+Push
+ 
+exact_answer op2 1992
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+*Answer 3:
+
+*
+Correct! POP
+Correct! 7343
+POP
+POP
+ 
+exact_answer op3 7343
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 7038
+pop
+pop
+ 
+exact_answer op3 7038
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 815
+Pop
+Pop
+ 
+exact_answer op3 815
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+*Answer 4:
+
+*
+Correct! BL
+Correct! 2312
+BL
+BL
+ 
+exact_answer op4 2312
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 2033
+bl
+bl
+ 
+exact_answer op4 2033
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 5905
+Bl
+Bl
+ 
+exact_answer op4 5905
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+*Answer 5:
+
+*
+Correct! BX LR
+Correct Answer 2314
+BX
+BX
+ 
+exact_answer op5 2314
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct! 6726
+BX LR
+BX LR
+ 
+exact_answer op5 6726
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 9253
+Bx
+Bx
+ 
+exact_answer op5 9253
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 5121
+Bx lr
+Bx lr
+ 
+exact_answer op5 5121
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 82
+bx lr
+bx lr
+ 
+exact_answer op5 82
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+ 
+/Move To... This element is a more accessible alternative to drag & drop
+reordering. Press Enter or Space to move this question. /
+Question 4
+1 / 1 pts
+/Edit this Question/ <#> /Delete this Question/ <#>
+0 fill_in_multiple_blanks_question  
+<https://sit.instructure.com/courses/29528/quizzes/29931/questions/366203>
+635012
+<p>If below code is a code for add to 64 bit integer:</p> <p>R5:R4 =
+R2:R0 + R3:R1</p> <p>In the following code, insert the missing
+opcodes<br><br>LDR R0, #0xFFFFFFF0<br>LDR R1, #0x0000001F<br>LDR R2,
+#0x00000001<br>LDR R3, #0x00000002<br><br>ADDS R4, R0, R1<br> <input
+class='question_input' type='text' autocomplete='off' style='width:
+120px;' name='question_366203_ef5812bcb15fa46514dc8a23077451e7'
+value='{{question_366203_ef5812bcb15fa46514dc8a23077451e7}}' /> R5, R2,
+R3<br><br>the answer to the sum is R5:R4 where R5 is the high part of
+the answer</p>
+
+If below code is a code for add to 64 bit integer:
+
+R5:R4 = R2:R0 + R3:R1
+
+In the following code, insert the missing opcodes
+
+LDR R0, #0xFFFFFFF0
+LDR R1, #0x0000001F
+LDR R2, #0x00000001
+LDR R3, #0x00000002
+
+ADDS R4, R0, R1
+R5, R2, R3
+
+the answer to the sum is R5:R4 where R5 is the high part of the answer
+
+*Answer 1:
+
+*
+Correct! ADCS
+Correct Answer 7481
+ADC
+ADC
+ 
+exact_answer ADC 7481
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 5541
+adc
+adc
+ 
+exact_answer ADC 5541
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct! 2279
+ADCS
+ADCS
+ 
+exact_answer ADC 2279
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 171
+adcs
+adcs
+ 
+exact_answer ADC 171
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 8125
+Adc
+Adc
+ 
+exact_answer ADC 8125
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+Correct Answer 2439
+Adcs
+Adcs
+ 
+exact_answer ADC 2439
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+ 
+/Move To... This element is a more accessible alternative to drag & drop
+reordering. Press Enter or Space to move this question. /
+Question 5
+1 / 1 pts
+/Edit this Question/ <#> /Delete this Question/ <#>
+0 multiple_choice_question  
+<https://sit.instructure.com/courses/29528/quizzes/29931/questions/375911>
+658721
+<p>If R0 contains the address of an array of 4 32 bits integers.  Please
+select the correct way to load the third integer to R1:</p>
+
+If R0 contains the address of an array of 4 32 bits integers.  Please
+select the correct way to load the third integer to R1:
+
+Correct! 7686
+  LDR R1, [R0,#8]
+LDR R1, [R0,#8]
+ 
+exact_answer none 7686
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+100.0
+9052
+  LDR R1, R0, #8
+LDR R1, R0, #8
+ 
+exact_answer none 9052
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+0.0
+4540
+  LDR R1, [R0,#16]
+LDR R1, [R0,#16]
+ 
+exact_answer none 4540
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+0.0
+7143
+  LDR R1, R3
+LDR R1, R3
+ 
+exact_answer none 7143
+0 (with margin: 0)
+0 (with precision: 0)
+Between 0 and 0
+margin of error +/-
+0.0
+Quiz Score: 5 out of 5
+
+
+        Related Items
+
+Last Attempt Details:
+Time: 	2 minutes
+Current Score: 	5 out of 5
+Kept Score: 	5 out of 5
+
+2 Attempts so far
+View Previous Attempts
+<https://sit.instructure.com/courses/29528/quizzes/29931/history>
+2 More Attempts available
+
+1c36946f-19f3-4124-9295-c05152e6e618
